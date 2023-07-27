@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header-main {
+  background-color: lightsteelblue;
+}
+.btn{
+  background-color: dodgerblue;
+}
